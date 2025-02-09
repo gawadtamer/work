@@ -1,0 +1,9 @@
+.logo{
+    margin-left: 100px;
+}
+
+.line{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+}
